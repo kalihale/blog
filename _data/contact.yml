@@ -1,5 +1,9 @@
 #  The contact options.
 
+- type: website
+  icon: "fas fa-house-laptop"
+  url: 'https://kalihale.github.io'
+
 - type: github
   icon: "fab fa-github"
 
